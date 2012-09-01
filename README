@@ -1,0 +1,8 @@
+This is a java applet to demonstrate real-time complex mapping in the
+complex plane
+
+by Jonathan Foote, Original version c. 2002, rescued 2012
+
+compile with javac -Xlint:deprecation -classpath ../conformal/ ConformalMapping.java Complex.java Sfun.java
+
+Complex.java and Sfun.java borrowed from Visual Numerics, Inc, thanks!
